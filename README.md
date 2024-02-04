@@ -1,1 +1,1 @@
-# juaspay-clone
+# juspay-clone
